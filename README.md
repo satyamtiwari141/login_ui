@@ -1,7 +1,11 @@
 # Login Ui
 
-This is just login registration page includes phone number login and google authentication.
-Its made with flutter and firebase for login and logout services
+This is just a login registration page that includes phone number login and Google authentication.
+Its made with Flutter and Firebase for login and logout services
 
 ## ScreenShot of the Application
-![image](images/screenshot-1.png)
+#This contains the login and registration page 
+![image](images/Screenshot-1.png)
+
+#And This contains Google  and phone authentication page 
+![image](images/Screenshot-2.png)
